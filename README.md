@@ -2,7 +2,7 @@ Step 1: Clone the Repository
 Pull this project down to your local Linux environment:
 
 
-git clone [https://github.com/YOUR_USERNAME/terraform-s3-static-website.git](https://github.com/YOUR_USERNAME/terraform-s3-static-website.git)
+git clone [https://github.com/Tushar-Shillarkar/terraform-s3-static-website.git](https://github.com/Tushar-Shillarkar/terraform-s3-static-website.git)
 cd terraform-s3-static-website
 Step 2: Initialize Terraform
 This command prepares your working directory by downloading the necessary AWS and Random provider plugins required to execute the code.
