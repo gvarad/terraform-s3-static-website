@@ -11,7 +11,7 @@ This command prepares your working directory by downloading the necessary AWS an
 terraform init
 
 Step 3: Validate and Plan
-Before building anything, run a plan. This allows you to safely preview the exact changes Terraform will make to your AWS account without actually provisioning any resources yet.
+Before building anything, run a plan. This allows you to safely preview the exact changes Terraform will make to your AWS account without actually provisioning any resources yet. Add access_key and secret_key in provider.tf
 
 terraform plan
 
